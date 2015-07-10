@@ -1,0 +1,25 @@
+{
+  "name": "is-in-interval",
+  "version": "1.0.0",
+  "description": "Check if a date is in a given busines-hours style interval",
+  "main": "is-in-interval.js",
+  "dependencies": {
+    "moment": "^2.10.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "mocha spec/is-in-interval.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:joerx/is-in-interval.git"
+  },
+  "author": "Joerg Henning \"henning.joerg@gmail.com\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joerx/is-in-interval/issues"
+  },
+  "homepage": "https://github.com/joerx/is-in-interval"
+}
